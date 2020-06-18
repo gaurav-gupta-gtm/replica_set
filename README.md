@@ -1,0 +1,2 @@
+# replica_set
+Create replica_set by terraform_kubenetes_deployment_resource
